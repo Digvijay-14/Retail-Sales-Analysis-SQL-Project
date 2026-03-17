@@ -1,6 +1,6 @@
 # 📊 SQL Retail Sales Analysis
 
-![Retail Sales Analysis](project_img.png)
+![Retail Sales Analysis](a/project_img.png)
 
 ## 📌 Project Overview
 This project analyzes a retail sales dataset using **SQL** to uncover business insights such as sales trends, customer behavior, and product performance.
