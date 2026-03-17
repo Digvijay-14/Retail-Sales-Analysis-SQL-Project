@@ -96,16 +96,16 @@ Some insights derived from the dataset:
 ## 📷 Project Screenshots
 
 ### Dataset Preview
-![Dataset Preview](dataset_preview.png)
+![Dataset Preview](a/Dataset_preview.png)
 
 ### KPI Analysis
-![KPI Analysis](kpi_analysis.png)
+![KPI Analysis](a/KPI_analysis.png)
 
 ### Category Sales
-![Category Sales](category_sales.png)
+![Category Sales](a/category_sale.png)
 
 ### Top Customers
-![Top Customers](top_customers.png)
+![Top Customers](a/Top_customer.png)
 
 ---
 
